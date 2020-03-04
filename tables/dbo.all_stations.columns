@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"station_name","STRING","14","0","0"
+"total_installed_capacity","STRING","5","4","0"
+"total_nominal_capacity","STRING","5","4","0"
+"location","STRING","13","0","0"
+"station_type","STRING","32","0","0"

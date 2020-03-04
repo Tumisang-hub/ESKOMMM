@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"electricity_distributed","STRING","6","0","0"
+"Date(mm-yyyy)","STRING","19","0","0"

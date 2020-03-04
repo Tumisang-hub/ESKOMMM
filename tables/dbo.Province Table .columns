@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"Province_ID","INTEGER","1","1","0"
+"Province","STRING","13","0","0"

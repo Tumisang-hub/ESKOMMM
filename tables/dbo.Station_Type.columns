@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"Station_Type_ID","INTEGER","1","1","0"
+"Station_Type","STRING","32","0","0"
